@@ -1,0 +1,13 @@
+.canvas {
+  background: blue;
+  position: absolute;
+}
+
+.controls {
+  z-index: 100;
+  position: absolute;
+}
+
+img {
+  display: none;
+}
