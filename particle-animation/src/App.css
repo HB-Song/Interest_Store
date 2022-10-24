@@ -10,3 +10,18 @@
 img {
   display: none;
 }
+
+.wrapButton {
+  padding: 1rem;
+  font-size: 2rem;
+  margin: 2rem;
+  color: white;
+  background: black;
+  font-family: 'Bangers', cursive;
+  transition: 0.2s;
+}
+
+.wrapButton:hover {
+  color: black;
+  background: white;
+}
